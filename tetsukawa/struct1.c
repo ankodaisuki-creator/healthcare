@@ -10,11 +10,11 @@ struct character
 
 int main()
 {
-    struct character hero = {"ﾕｳｼｬ ﾔﾏｼｭｳ", 120, 40, 25};
-    struct character wizard = {"ﾏﾎｳﾂｶｲ ｼﾞﾝｼﾝ", 80, 60, 10};
-    struct character doremi = {"ｵｼﾞｬﾏｼﾞｮﾄﾞﾚﾐ", 999, 250, 100};
-    struct character suisui = {"ﾎﾞｳｶﾞｲ ｽｲｽｲ", 200, 10, 30};
-    struct character kim = {"ｼｮｳｸﾞﾝｻﾏ", 10000, 500, 5};
+    struct character hero = {"トラ", 120, 40, 25};
+    struct character wizard = {"ハメ", 80, 60, 10};
+    struct character doremi = {"プー", 999, 250, 100};
+    struct character suisui = {"シュウ", 200, 10, 30};
+    struct character kim = {"ヒョギフ", 10000, 500, 5};
 
     printf("奇妙な仲間たち\n");
 
